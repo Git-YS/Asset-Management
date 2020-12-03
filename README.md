@@ -1,5 +1,7 @@
 # assets-management
 
+A Vuetify project for manage assets, include registering, managing
+
 ## Project setup
 ```
 npm install
